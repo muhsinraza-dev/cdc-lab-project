@@ -1,0 +1,5 @@
+# Distributed Task Processing and Performance Analysis System
+# Cloud and Distributed Computing (CDC) Project
+
+Flask>=3.0.0
+matplotlib>=3.8.0
